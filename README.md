@@ -7,14 +7,14 @@ The MNIST database is a large database of handwritten digits that is commonly us
 -   pip3 install jupyter
 -   pip3 install tensorflow
 
-# Training process (Read comments on jupyter notebook detailed explanation)
+## Training process (Read comments on jupyter notebook detailed explanation)
 
 ![Training](./training.gif)
 
-# Evaluation with test data
+## Evaluation with test data
 
 ![Evaluation](./test-evaluation.JPG)
 
-# Result
+## Result
 
 ![Result](./result.JPG)
